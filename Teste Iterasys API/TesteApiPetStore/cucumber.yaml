@@ -1,0 +1,3 @@
+default:  -p quietPublish  -p pretty
+quietPublish: --publish-quiet
+pretty: --format pretty
