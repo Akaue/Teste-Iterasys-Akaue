@@ -1,6 +1,6 @@
 # Teste-Iterasys-Akaue
 
-## Testes de Api, Web e mobile realizados de acordo com exercicios propostos pela Iterasys
+## Testes de Api, Web e mobile
 
 ## Teste de Api
 
